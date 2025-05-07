@@ -1,3 +1,2 @@
-#PyGithub
 opentelemetry-distro 
 opentelemetry-exporter-otlp
